@@ -1,0 +1,20 @@
+Convert the text below into a complete semantic HTML document. Use HTML only: no CSS, style elements, style attributes, JavaScript, or event-handler attributes.
+
+Preserve every word, punctuation mark, and the order of the supplied text. Do not add content or rewrite the paragraphs.
+
+Use <!DOCTYPE html>, <html lang="en">, a <head> with <meta charset="UTF-8"> and a descriptive <title>, and a <body>. Place the main title in a page-level <header> with exactly one <h1>. Put the three content sections in a single <main>. Use a <section> for each topic, an <h2> for each section heading, and a <p> for each supplied paragraph. Keep heading levels sequential. Put the supplied author and date line in a page-level <footer>; mark the date with <time datetime="2026-10-10"> while preserving its visible text. Prefer native semantic elements without redundant ARIA roles. Close all elements correctly. Return only the HTML in one code block, without explanations.
+
+Text:
+
+The Feeling of Shooting
+
+Physical Contact and Conditioning
+I love basketball because it involves a lot of physical contact. Since I am naturally lean and small, this motivates me to work out and build a stronger physique. Defeating opponents who are physically stronger than me brings me joy and a great sense of accomplishment. Making a basket makes me feel happy.
+
+Friendship and Teamwork
+I believe playing basketball fosters friendships while also providing a good workout. I particularly enjoy teaming up with friends to defeat stronger opponents.
+
+My Goal
+My goal is to dunk. I think dunking looks really cool, so I train my legs three times a week, hoping to achieve this goal one day.
+
+Haolong Chen · 10/10/2026
